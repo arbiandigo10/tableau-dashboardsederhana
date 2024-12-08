@@ -1,5 +1,7 @@
 # Project build simple dashboard visualization using Tableau
- ## --> https://public.tableau.com/views/LatihanDashboardinterractivesimple/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link --< 
+https://public.tableau.com/views/LatihanDashboardinterractivesimple/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
+![Dashboard sales](https://github.com/user-attachments/assets/6e5eeeea-e5e9-4f58-b7dd-4384ac91e5a5)
 
 ## Description
 A sales dashboard to analyze key business metrics, including total sales, profit, customer count, sales by month, product performance, and geographic distribution of sales across states. Created to assist stakeholders in tracking business performance and identifying improvement opportunities.
